@@ -1,3 +1,6 @@
+# Hosted on Github Pages:
+https://joshuanelse.github.io/react_tutorial/react_tutorial/build/index.html
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
